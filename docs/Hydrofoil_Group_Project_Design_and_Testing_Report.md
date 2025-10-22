@@ -1,4 +1,4 @@
-# **Hydrofoil_Group_Project_Design_and_Testing_Report**
+# **Hydrofoil Group Project Design and Testing Report**
 
 ## **Description:**  
 **Complete report for the *Hydrofoil Design and Testing* project.**  
